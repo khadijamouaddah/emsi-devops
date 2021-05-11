@@ -1,11 +1,3 @@
+
 # emsi-devops
-
-
-
-
-
-
-
-
-
 Holberton Repository 
